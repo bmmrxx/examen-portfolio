@@ -64,14 +64,15 @@ Beschrijf hoe je het project gaat uitvoeren, inclusief gebruikte tools en techni
 
 Voorbeeld:
 1. **Onderzoek**  
-   Verzamelen van referenties en bepalen van de structuur en stijl van de website.
+   [Referentie van het product.](https://github.com/Lythical1/backend-eind-project)
    
 2. **Ontwerp**  
-   Maken van wireframes en een visueel ontwerp in tools zoals Figma.
+   - Maken een visueel ontwerp met [Figma](https://www.figma.com/).
+   - Maken we een database ontwerp met [Drawio](https://www.drawio.com/).
 
 3. **Ontwikkeling**  
-   - Frontend: HTML, CSS (bijv. Tailwind), en JavaScript.  
-   - Backend: Laravel als framework en MySQL als database.
+   - Frontend: HTML, TailwindCSS. Optioneel: JavaScript.  
+   - Backend: Plain PHP en MySQL.
 
 4. **Testen**  
    Testen van functionaliteit, responsiviteit en prestaties op verschillende apparaten.
