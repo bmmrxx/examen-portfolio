@@ -14,29 +14,23 @@
 ---
 
 ## Inleiding
-Beschrijf hier kort de context van het project. Wat is het doel van de website? Voor wie wordt deze ontwikkeld en waarom is het belangrijk?
 
-Voorbeeld:
-> Dit project richt zich op het ontwikkelen van een portfolio-website om mijn vaardigheden en projecten als softwareontwikkelaar te presenteren. De website zal een professioneel en modern ontwerp hebben en geschikt zijn voor zowel desktop- als mobiele apparaten.
+> Dit project richt zich op het ontwikkelen van een website waar gebruikers en bedrijven vacatures kunnen plaatsen en hier op kunnen reageren. Het wordt een mix van LinkedIn en Indeed. Hiermee presenteren wij onze vaardigheden als softwareontwikkelaar. De website zal een professioneel en modern ontwerp hebben.
 
 ---
 
 ## Doelstelling
-Formuleer een SMART-doelstelling voor je project. 
 
-Voorbeeld:
-> Het doel van dit project is om binnen vier weken een functionele, responsieve portfolio-website te ontwikkelen die mijn vaardigheden, projecten en contactgegevens op een overzichtelijke en aantrekkelijke manier presenteert.
+> Het doel van dit project is om een functionele, portfolio-website te ontwikkelen die onze vaardigheden laten zien. 
 
 ---
 
 ## Scope
-Bepaal wat wel en niet binnen het project valt. 
 
 Voorbeeld:
 **Binnen scope:**
-- Ontwikkelen van een frontend met HTML, CSS en JavaScript.
-- Gebruik van een backend-framework zoals Laravel.
-- Integratie van een contactformulier.
+- Ontwikkelen van een frontend met HTML, TailwindCSS en eventueel JavaScript.
+- Ontikkelen van een backend met PHP en MyQL.
 
 **Buiten scope:**
 - Geavanceerde animaties of video-integratie.
@@ -46,21 +40,22 @@ Voorbeeld:
 
 ## Eisen en Wensen
 ### Functionele Eisen
-- De website moet responsief zijn.
-- Bezoekers moeten projecten kunnen filteren op technologie.
+- Bezoekers en bedrijven moeten vacatures kunnen plaatsen en erop kunnen reageren.
+- Admins moeten vacatures kunnen verwijderen.
+- Bezoekers en bedrijven moeten hun reactie op een vacature kunnen intrekken.
+- Bezoekers en bedrijven willen kunnen sorteren op relevantie.
 
 ### Technische Eisen
 - De website wordt gehost via [platform].
-- Gebruik van minimaal versie X.X van [programmeertaal/framework].
+- Gebruik van minimaal versie X.X van PHP.
 
 ### Wensen
-- Animaties bij het laden van pagina's.
-- Integratie van een blog-sectie.
+- Wens
+- Wens
 
 ---
 
 ## Aanpak
-Beschrijf hoe je het project gaat uitvoeren, inclusief gebruikte tools en technieken.
 
 Voorbeeld:
 1. **Onderzoek**  
@@ -80,39 +75,31 @@ Voorbeeld:
 ---
 
 ## Planning
-Maak een tabel of lijst om je planning overzichtelijk te maken.
 
 | Week | Activiteit                |
 |------|---------------------------|
-| 1    | Onderzoek en wireframing  |
-| 2    | Ontwerp en frontend ontwikkeling |
-| 3    | Backend ontwikkeling en integratie |
-| 4    | Testen, feedback verwerken en oplevering |
+| Eerste week    | Onderzoek en Ontwerpen  |
+| Teede week    | Frontend en Backend Ontwikkeling |
+| Laatste week    | Testen, feedback verwerken en oplevering |
 
 ---
 
 ## Risicoanalyse
-Beschrijf mogelijke risico's en hoe je die kunt mitigeren.
 
 | Risico                         | Impact | Oplossing                          |
 |--------------------------------|--------|------------------------------------|
-| Te weinig tijd                 | Hoog   | Strakke planning en prioriteiten stellen. |
 | Bugs in de backend             | Medium | Unit tests schrijven en debuggen. |
 | Responsiviteit werkt niet goed | Hoog   | Vroegtijdig testen op meerdere apparaten. |
+| Afezigheid i.v.m. ziekte en stage | Hoog   | Strakke planning en prioriteiten stellen. |
 
 ---
 
 ## Testplan
-Omschrijf hoe je de website gaat testen.
 
-- **Functionele Tests**: Controleer of alle functionaliteiten werken (bijv. contactformulier).  
-- **Responsieve Tests**: Test de weergave op desktop, tablet, en mobiel.  
-- **Performance Tests**: Gebruik tools zoals Lighthouse om de prestaties te meten.
+- **Functionele Tests**: Controleer of alle functionaliteiten werken (bijv. Log in).  
+- **Responsieve Tests**: Test de weergave op verschillende apparaten.  
 
 ---
 
 ## Conclusie
-Sluit af met een korte samenvatting en de verwachte impact van het project.
-
-Voorbeeld:
-> Met dit project streef ik ernaar een portfolio-website te ontwikkelen die mijn vaardigheden op het gebied van webontwikkeling toont en potentiële werkgevers of opdrachtgevers overtuigt van mijn capaciteiten.
+> Met dit project streven wij ernaar een portfolio-website te ontwikkelen die onze vaardigheden op het gebied van webontwikkeling tonen en potentiële werkgevers of opdrachtgevers overtuigt van onze capaciteiten.
